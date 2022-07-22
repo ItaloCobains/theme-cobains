@@ -1,0 +1,21 @@
+{
+    "name": "theme-cobains",
+    "displayName": "Theme Cobains",
+    "description": "Theme for users darks",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Theme Cobains",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Theme Cobains-color-theme.json"
+            }
+        ]
+    }
+}
