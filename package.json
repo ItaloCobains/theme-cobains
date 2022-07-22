@@ -3,6 +3,15 @@
     "displayName": "Theme Cobains",
     "description": "Theme for users darks",
     "version": "0.0.1",
+    "publisher": "theme-cobains",
+    "keywords": [
+        "theme-cobains",
+        "theme",
+        "dark-theme",
+        "ItaloCobains",
+        "italo cobains",
+        "themes"
+    ],
     "engines": {
         "vscode": "^1.69.0"
     },
